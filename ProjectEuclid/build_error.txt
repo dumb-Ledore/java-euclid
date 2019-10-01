@@ -1,0 +1,12 @@
+warning: Supported source version 'RELEASE_6' from annotation processor 'org.eclipse.persistence.internal.jpa.modelgen.CanonicalModelProcessor' less than -source '1.8'
+Note: Creating non-static metadata factory ...
+Note: Found Option : eclipselink.canonicalmodel.use_static_factory, with value: false
+Note: Optional file was not found: META-INF/orm.xml continuing with generation.
+Note: Optional file was not found: META-INF/eclipselink-orm.xml continuing with generation.
+Note: Found Option : eclipselink.canonicalmodel.use_static_factory, with value: false
+Note: Optional file was not found: META-INF/orm.xml continuing with generation.
+Note: Optional file was not found: META-INF/eclipselink-orm.xml continuing with generation.
+warning: The following options were not recognized by any processor: '[eclipselink.canonicalmodel.use_static_factory]'
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+1 warning
