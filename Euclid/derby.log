@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Oct 02 09:43:48 SGT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631): instance a816c00e-016d-8a23-371f-00000df46598 
+on database directory C:\Users\student\Documents\Euclid\db\ProjectEuclid with class loader sun.misc.Launcher$AppClassLoader@7852e922 
+Loaded from file:/C:/Users/student/Documents/Euclid/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_181-b13
+user.dir=C:\Users\student\Documents\Euclid
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
